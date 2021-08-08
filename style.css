@@ -1,0 +1,483 @@
+* {
+	box-sizing: border-box;
+}
+ol, ul {
+	list-style: none;
+}
+/*Base classes*/
+*{
+	padding: 0;
+	margin: 0;
+}
+.d-inline-block{
+	display: inline-block;
+}
+/*index.html*/
+body{
+	background-color: rgb(243 0 243 / 3%);
+}
+a:-webkit-any-link {
+    
+    cursor: pointer;
+    text-decoration: none;
+
+}
+
+.logo{
+	margin-left:30px ;
+	margin-top: -40px;
+	vertical-align: middle;
+	width: 250px;
+	height: 250px;
+}
+.navigation {
+    vertical-align: middle;
+}
+.nav-li{
+	padding-left: 50px;
+
+}
+.nav-a {
+	color: #3D58A6;
+	display: inline-block;
+	color: #181C28;
+	font-size: 24px;
+	text-decoration: none;
+
+	
+}
+.nav-aactive {
+	
+	display: inline-block;
+	color: #f03422;
+	font-size: 24px;
+	text-decoration: none;
+
+	
+}
+.image1{
+	margin-left: 150px;
+	margin-top: -30px;
+	
+}
+
+.text-wraper{
+	position: relative;
+	margin-top: -250px;
+	margin-left: 300px;
+	color: orange;
+	
+	font-size: 60px;
+}
+
+.text{
+	position: relative;
+	margin-top: 50px;
+	margin-left: 170px;
+	color: #21203e;
+	font-size: 36px;
+	line-height: 100px;
+}
+
+.image2{
+	margin-left: 136px;
+	margin-top: 83px;
+	width: 450px;
+	height: 450px;
+	position: relative;
+}
+.image3{
+	margin-left: 136px;
+	margin-top: 33px;
+	width: 450px;
+	height: 450px;
+	position: relative;
+}
+.image4{
+	margin-left: 136px;
+	margin-top: 33px;
+	width: 450px;
+	height: 450px;
+	position: relative;
+}
+.image5{
+	margin-left: 136px;
+	margin-top: 33px;
+	width: 450px;
+	height: 450px;
+	position: relative;
+}
+.image6{
+	margin-left: 136px;
+	margin-top: 33px;
+	width: 450px;
+	height: 450px;
+	position: relative;
+}
+.image7{
+	margin-left: 136px;
+	margin-top: 33px;
+	width: 450px;
+	height: 450px;
+	position: relative;
+}
+.image8{
+	margin-left: 136px;
+	margin-top: 33px;
+	width: 450px;
+	height: 450px;
+	position: relative;
+}
+.image9{
+	margin-left: 136px;
+	margin-top: 33px;
+	width: 450px;
+	height: 450px;
+	position: relative;
+}
+.image10{
+	margin-left: 136px;
+	margin-top: 33px;
+	width: 450px;
+	height: 450px;;
+	position: relative;
+}
+.image11{
+	margin-left: 136px;
+	margin-top: 33px;
+	width: 450px;
+	height: 450px;
+	position: relative;
+}
+.image12{
+	margin-left: 136px;
+	margin-top: 33px;
+	width: 450px;
+	height: 450px;
+	position: relative;
+}
+.image13{
+	margin-left: 136px;
+    margin-top: 33px;
+	width: 450px;
+	height: 450px;
+	position: relative;
+}
+.image14{
+	margin-left: 136px;
+	margin-top: 33px;
+	width: 450px;
+	height: 450px;
+	position: relative;
+}
+.image15{
+	margin-left: 136px;
+	margin-top: 33px;
+	width: 450px;
+	height: 450px;
+	position: relative;
+}
+.image16{
+	margin-left: 136px;
+	margin-top: 33px;
+	width: 450px;
+	height: 450px;
+	position: relative;
+}
+.text2{
+	position: relative;
+	color: #181C28;
+	margin-left: 138px;
+	margin-top: 20px;
+	font-size: 30px;
+}
+.text3{
+	margin-left: 138px;
+	margin-top: 20px;
+	color: #7B7B7B;
+	font-size: 16px;
+}
+.text4{
+	margin-left: 138px;
+	margin-top: 20px;
+	color: #FF7A00;
+	font-size: 14px;
+
+}
+svg{
+	position: relative;
+	margin-left: 20px;
+	margin-top: -4px;
+
+
+}
+.section1{
+	position: relative;
+	margin-top: -50px;
+	
+	
+}
+
+.section2{
+	position: relative;
+	margin-left: 600px;
+	margin-top: -625px;
+	
+	
+	
+
+}
+.section3{
+	position: relative;
+	margin-left: 1206px;
+	margin-top: -625px;
+    
+}
+.section4{
+	position: relative;
+	margin-top: -5px;
+	margin-top: 100px;
+	
+	
+}
+.section5{ 
+	position: relative;
+    margin-top: -625px;
+    margin-left: 600px;
+   
+
+}
+.section6{ 
+	position: relative;
+    margin-top: -625px;
+    margin-left: 1206px;
+   
+}
+.section7{ 
+	position: relative;
+    margin-top: -5px;
+    margin-top: 100px;
+}
+.section8{ 
+	position: relative;
+    margin-top: -625px;
+    margin-left: 600px;
+
+}
+.section9{ 
+	position: relative;
+    margin-top: -625px;
+    margin-left: 1206px;
+
+}
+.section10{ 
+	position: relative;
+    margin-top: -5px;
+    margin-top: 100px;
+}
+.section11{ 
+	position: relative;
+    margin-top: -625px;
+    margin-left: 600px;
+
+}
+.section12{ 
+	position: relative;
+    margin-top: -625px;
+    margin-left: 1206px;
+
+}
+.section13{ 
+	position: relative;
+    margin-top: -5px;
+    margin-top: 100px;
+
+}
+.section14{ 
+	position: relative;
+    margin-top: -625px;
+    margin-left: 600px;
+
+}
+.section15{ 
+	position: relative;
+    margin-top: -625px;
+    margin-left: 1206px;
+
+}
+.LOADMORE{
+	padding-top: 19px;
+	color: white;
+	margin-left: 40%;
+	margin-top: 100px;
+	background-color: #FF7A00;
+	width: 290px;
+	height: 90px;
+	text-align: center;
+	font-size: 16px;
+
+}
+.image100{
+	margin-top: 134px;
+	width: 1905px;
+}
+footer{
+	background-color: white;
+	margin-top: -90px;
+}
+.company{
+	margin-left: 138px;
+	margin-top: 108px;
+	color: #282828;
+	font-size: 24px;
+	
+
+}
+.company1{
+	color: #7B7B7B;
+	margin-left: 138px;
+    margin-top: 28px;
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.payment{
+	margin-left: 1270px;
+	margin-top: -278px;
+	color: #282828;
+	font-size: 24px;
+}
+.amex{
+	margin-left: 1279px;
+	margin-top: 26px;
+}
+.masterc{
+	margin-left: 1347px;
+	margin-top: -49px;
+	display: block;
+
+}
+.visa{
+	margin-left: 1408px;
+	margin-top: -31px;
+	display: block;
+}
+.copyright{
+	color: #A4A4A4;
+	margin-left: 1567px;
+	margin-top: 169px;
+	font-size: 20px;
+}
+
+/*--------naruto,html---------*/
+
+.image-1{
+	width: 1640px;
+	height: 856px;
+	margin-left: 150px;
+	margin-top: -30px;
+}
+.image-4{
+	width: 1640px;
+	height: 856px;
+	margin-left: 150px;
+	margin-top: 30px;
+}
+.image-7{
+	width: 1640px;
+	height: 856px;
+	margin-left: 150px;
+	margin-top: -30px;
+	
+
+}
+.section-2{
+	margin-left: 600px;
+	margin-top: -625px;
+	position: relative;
+
+}
+.section-3{ 
+	position: relative;
+    margin-top: -625px;
+    margin-left: 1206px;
+
+}
+.section-4{
+	position: relative;
+	margin-top: -5px;
+	margin-top: 100px;
+	
+	
+}
+
+.section-5{
+	margin-left: 600px;
+	margin-top: -625px;
+	position: relative;
+
+
+}
+.section-6{ 
+	position: relative;
+    margin-top: -625px;
+    margin-left: 1206px;
+
+}
+.section-7{ 
+	position: relative;
+    margin-top: -5px;
+    margin-top: 100px;
+}
+
+.section-8{
+	margin-left: 600px;
+	margin-top: -625px;
+	position: relative;
+
+}
+.section-9{ 
+	position: relative;
+    margin-top: -625px;
+    margin-left: 1206px;
+
+}
+/*------AOT------*/
+.section--2{
+	margin-left: 600px;
+	margin-top: -625px;
+	position: relative;
+}
+/*------deathnote------*/
+.section---1{
+
+	position: relative;
+    margin-top: -5px;
+   
+}
+.section---2{
+	margin-left: 600px;
+	margin-top: -625px;
+	position: relative;
+
+}
+/*-----dmnslyr--------*/
+.section----2{
+	margin-left: 600px;
+	margin-top: -625px;
+	position: relative;
+
+}
+/*---------aboutus-----*/
+#_24x24_On_Light_Facebook{
+	position: relative;
+	margin-top: 30px;
+	margin-left: 1276px;
+}
+.contact{
+	position: relative;
+	color: #282828;
+	font-size: 24px;
+	margin-left: 1276px;
+	margin-top: 50px;
+}
